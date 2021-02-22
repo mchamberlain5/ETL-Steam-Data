@@ -1,4 +1,4 @@
-# ETL - Short Project
+# ETL 
 
 Analysts: Sarah Zachrich, Madison Chamberlain, Kevin Schram, Robin Bun, Andrew Marino
 
